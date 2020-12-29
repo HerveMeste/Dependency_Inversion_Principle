@@ -1,0 +1,17 @@
+C:\Users\Hervé\source\repos\Dependency_Inversion_Principle\bin\Debug\netcoreapp3.1\Dependency_Inversion_Principle.exe
+C:\Users\Hervé\source\repos\Dependency_Inversion_Principle\bin\Debug\netcoreapp3.1\Dependency_Inversion_Principle.deps.json
+C:\Users\Hervé\source\repos\Dependency_Inversion_Principle\bin\Debug\netcoreapp3.1\Dependency_Inversion_Principle.runtimeconfig.json
+C:\Users\Hervé\source\repos\Dependency_Inversion_Principle\bin\Debug\netcoreapp3.1\Dependency_Inversion_Principle.runtimeconfig.dev.json
+C:\Users\Hervé\source\repos\Dependency_Inversion_Principle\bin\Debug\netcoreapp3.1\Dependency_Inversion_Principle.dll
+C:\Users\Hervé\source\repos\Dependency_Inversion_Principle\bin\Debug\netcoreapp3.1\Dependency_Inversion_Principle.pdb
+C:\Users\Hervé\source\repos\Dependency_Inversion_Principle\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\Hervé\source\repos\Dependency_Inversion_Principle\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Hervé\source\repos\Dependency_Inversion_Principle\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Hervé\source\repos\Dependency_Inversion_Principle\obj\Debug\netcoreapp3.1\Dependency_Inversion_Principle.csprojAssemblyReference.cache
+C:\Users\Hervé\source\repos\Dependency_Inversion_Principle\obj\Debug\netcoreapp3.1\Dependency_Inversion_Principle.AssemblyInfoInputs.cache
+C:\Users\Hervé\source\repos\Dependency_Inversion_Principle\obj\Debug\netcoreapp3.1\Dependency_Inversion_Principle.AssemblyInfo.cs
+C:\Users\Hervé\source\repos\Dependency_Inversion_Principle\obj\Debug\netcoreapp3.1\Dependency_Inversion_Principle.csproj.CoreCompileInputs.cache
+C:\Users\Hervé\source\repos\Dependency_Inversion_Principle\obj\Debug\netcoreapp3.1\Dependency_Inversion_Principle.csproj.CopyComplete
+C:\Users\Hervé\source\repos\Dependency_Inversion_Principle\obj\Debug\netcoreapp3.1\Dependency_Inversion_Principle.dll
+C:\Users\Hervé\source\repos\Dependency_Inversion_Principle\obj\Debug\netcoreapp3.1\Dependency_Inversion_Principle.pdb
+C:\Users\Hervé\source\repos\Dependency_Inversion_Principle\obj\Debug\netcoreapp3.1\Dependency_Inversion_Principle.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WsQtmtt8Y6xpZ8Nw2rtOtSeszVWJjKN6hs7upF4pW+GQ1FET2re8yr+rPv1Pa3+o5cg5h2/cWHT/1RE4rjtfjA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hervé\\source\\repos\\Dependency_Inversion_Principle\\Dependency_Inversion_Principle.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hervé\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
