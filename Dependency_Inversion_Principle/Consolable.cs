@@ -4,7 +4,10 @@ using System.Text;
 
 namespace Dependency_Inversion_Principle
 {
-    interface Consolable
+    public interface Consolable
     {
+        public string ReadLine();
+        public void Write(string command);
+        
     }
 }

@@ -1,4 +1,9 @@
-﻿namespace Dependency_Inversion_Principle
+﻿using System;
+using System.Diagnostics;
+using System.IO;
+using System.Linq;
+
+namespace Dependency_Inversion_Principle
 {
     public class Command
     {

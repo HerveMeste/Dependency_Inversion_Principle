@@ -7,11 +7,14 @@ namespace Dependency_Inversion_Principle
     {
         public static void Main()
         {
-            Terminal terminal = new Terminal();
+            Consolable console = new MyConsole();
+            Execute execute = new Execute();
+            Prompt prompt = new Prompt(console);
+            Terminal terminal = new Terminal(execute, prompt);
             while (!terminal.Exited)
             {
-                Command command = terminal.PromptCommand();
-                terminal.ExecuteCommand(command);
+                Command command = prompt.PromptCommand();
+                execute.ExecuteCommand(command);
             }
         }
     }
